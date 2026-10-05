@@ -1,4 +1,4 @@
-name: terraform-0
+name: terraform-1
 
 on:
   push:
